@@ -1,0 +1,1 @@
+Add your actual resume PDF to this folder and name it resume.pdf. The hero button already points to /resume.pdf.
