@@ -10,7 +10,7 @@ Responsive portfolio website built with React, TypeScript, Vite, React Router, a
 4. Run `npm run dev`
 5. Open the local URL printed in the terminal.
 
-## Before submitting / publishing
+<!-- ## Before submitting / publishing
 
 Replace all placeholders with real details:
 
@@ -26,4 +26,4 @@ Run `npm run build`. Deploy the project folder to Vercel or Netlify. For Vercel,
 
 ## Note
 
-This is a ready-to-customize project scaffold. No hosting account is connected, so a public live URL has not been created by this package.
+This is a ready-to-customize project scaffold. No hosting account is connected, so a public live URL has not been created by this package. -->
